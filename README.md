@@ -1,5 +1,10 @@
 # ai-roast
 
+[![npm version](https://img.shields.io/npm/v/ai-roast.svg)](https://www.npmjs.com/package/ai-roast)
+[![npm downloads](https://img.shields.io/npm/dm/ai-roast.svg)](https://www.npmjs.com/package/ai-roast)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Get your code roasted. Funny, brutal, but always with actionable feedback.
 
 ## Install
