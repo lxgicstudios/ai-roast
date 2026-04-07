@@ -1,5 +1,5 @@
 {
-  "name": "ai-roast",
+  "name": "@lxgicstudios/ai-roast",
   "version": "1.0.0",
   "description": "AI-powered code roaster - brutally honest code reviews with GPT humor",
   "main": "dist/index.js",
