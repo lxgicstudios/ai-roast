@@ -15,30 +15,39 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
+    "analysis",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "code-review",
-    "roast",
-    "humor",
-    "feedback",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
+    "claude",
+    "cli",
+    "code-review",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "feedback",
     "fun",
-    "analysis"
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "nodejs",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "roast",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-roast#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-roast"
+    "url": "https://github.com/LXGIC-Studios/ai-roast"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-roast/issues"
